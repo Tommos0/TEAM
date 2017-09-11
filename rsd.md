@@ -13,8 +13,7 @@ What this team aims to achieve in the sprint (depending on size and availability
 
 1. Rethink expertise content corporate website
     
-Our expertise pages on the corporate website do not clarify well to an uninformed audience what it is that we bring to a scientific project. Currently our expertise pages (https://www.esciencecenter.nl/?/expertise) are a 
-direct copy from our organizational strategy 2015-2020 document. During the sprint we want to
+: Our expertise pages on the corporate website do not clarify well to an uninformed audience what it is that we bring to a scientific project. Currently our expertise pages (https://www.esciencecenter.nl/?/expertise) are a direct copy from our organizational strategy 2015-2020 document. During the sprint we want to
 
    - Rewrite and present this content in a format that is more accessible to people with limited knowledge of ICT.
    - Conceptualize how we can present the ‘proof of the pudding’ here (our gems, how to establish a link with the RSD, and our publications for example).
@@ -28,11 +27,9 @@ direct copy from our organizational strategy 2015-2020 document. During the spri
 
 3. Kick-off front-end development RSD
 
-   While the back-end is currently being developed by Tom K, development of the front end will start from scratch. On Wednesday an external agency will join to explore the points of departure for (co-)developing the front-end of 
-   the new Research Software Directory. The agenda and persons involved in this meeting have already been defined (Lode, Tom K, Willem, Rob).
+: While the back-end is currently being developed by Tom K, development of the front end will start from scratch. On Wednesday an external agency will join to explore the points of departure for (co-)developing the front-end of the new Research Software Directory. The agenda and persons involved in this meeting have already been defined (Lode, Tom K, Willem, Rob).
     
 4. Software statements
 
-   For each gem we want to develop a statement along the lines “For [these users] this [software] is the [what makes software unique from user perspective] among all [with which types of software does it compete] because [proof 
-   that it is unique by mentioning characteristics]. Defining these software statements is a joint-effort of all teams.
+: For each gem we want to develop a statement along the lines “For [these users] this [software] is the [what makes software unique from user perspective] among all [with which types of software does it compete] because [proof that it is unique by mentioning characteristics]. Defining these software statements is a joint-effort of all teams.
 

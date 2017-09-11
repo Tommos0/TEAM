@@ -12,14 +12,14 @@ applications scale from running on your laptop to computer clusters through the 
 
 ## I want to know more!
 
-Noodles website: https://nlesc.github.io/noodles
-Read the latest documentation at: https://noodles.readthedocs.io
+- Noodles website: https://nlesc.github.io/noodles
+- Read the latest documentation at: https://noodles.readthedocs.io
 
 ## Sprint Program
 
 ### Dissemination: 
  
-Improve the website, questions: what is noodles? when should I use it? who is already using it?
+- Improve the website, questions: what is noodles? when should I use it? who is already using it?
 
 ### Tutorials:
 - Noodlify your favourite Python module

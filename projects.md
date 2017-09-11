@@ -11,7 +11,7 @@ The team project is organized as a number of sprints. For this year's project th
    - 18-21 September
    - 13-16 November
 
-Traditionally, on the last day (Thursday) we end with a dinner at the eScience Center.
+Traditionally, lunch will be provided during these 4 days and on the last day (Thursday) we end with a dinner at the eScience Center.
 
 The focus of this years team project is our own software, the 'gems' of eStep. We will have 6 teams, each focusing on a specific tool and polishing it to perfection:
 

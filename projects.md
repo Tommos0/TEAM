@@ -15,12 +15,12 @@ Traditionally, lunch will be provided during these 4 days and on the last day (T
 
 The focus of this years team project is our own software, the 'gems' of eStep. We will have 6 teams, each focusing on a specific tool and polishing it to perfection:
 
+   - [CommonSense (Berend)](https://github.com/NLeSC/TEAM/blob/master/commonsense.md)
+   - [Noodles (Johan)](https://github.com/NLeSC/TEAM/blob/master/noodles.md)
    - [CWL (Niels)](https://github.com/NLeSC/TEAM/blob/master/cwl.md)
    - [Spot (Willem)](https://github.com/NLeSC/TEAM/blob/master/spot.md)
    - [McFly (Christiaan)](https://github.com/NLeSC/TEAM/blob/master/mcfly.md)
    - [Pointclouds (Stefan)](https://github.com/NLeSC/TEAM/blob/master/pointclouds.md)
-   - [CommonSense (Berend)](https://github.com/NLeSC/TEAM/blob/master/commonsense.md)
-   - [Noodles (Johan)](https://github.com/NLeSC/TEAM/blob/master/noodles.md)
    - [Dissemination & Research Software Directory (Lode)](https://github.com/NLeSC/TEAM/blob/master/rsd.md)
 
 Click on each link above to get a short abstract describing the tool and a plan of the work that will be done in the first sprint. Keep in mind that we would like you to focus on things like:

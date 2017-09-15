@@ -1,5 +1,5 @@
 
-# CommonSense  
+# CommonSense (Telescope)
 
 Berend Weel (lead)  
 Erik Tjong Kim Sang  
@@ -7,7 +7,7 @@ Carlos Martinez Ortiz
 Martine de Vos  
 Rena Bakhshi  
 
-# Noodles  
+# Noodles (Cloud Chamber + Universal Turing Machine)
 
 Johan Hiding (lead)  
 Ben van Werkhoven  
@@ -16,7 +16,7 @@ Hanno Spreeuw
 Vincent van Hees  
 Lars Ridder  
 
-# CWL  
+# CWL (Library)
 
 Niels Drost (lead)  
 Lourens Veen  
@@ -25,7 +25,7 @@ Ben de Vries
 Bouwe Andela  
 Ronald van Haren  
 
-# Spot  
+# Spot (Workspaces next to Observatory)
 
 Willem van Hage (lead)  
 Faruk Diblen  
@@ -34,7 +34,7 @@ Jisk Attema
 Dafne van Kuppevelt  
 Nicolas Renaud  
 
-# McFly  
+# McFly (Telescope) 
 
 Christiaan Meijer (lead)  
 Bram van Es  
@@ -42,7 +42,7 @@ Wouter Kouw
 Patrick Bos  
 Atze van der Ploeg  
 
-# Pointclouds  
+# Pointclouds (Stellarator) 
 
 Stefan Verhoeven (lead)  
 Romulo Gonçalves  
@@ -51,7 +51,7 @@ Arnold Kuzniar
 Maarten van Meersbergen  
 Gijs van den Oord  
 
-# Dissemination & RSD  
+# Dissemination & RSD (Microscope / Observatory) 
 
 Lode Kulik (lead)  
 Adrienne Mendrik  

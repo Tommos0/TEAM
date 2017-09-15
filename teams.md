@@ -1,69 +1,69 @@
 
-# CommonSense
+# CommonSense  
 
-Berend Weel (lead)
-Erik Tjong Kim Sang
-Carlos Martinez Ortiz
-Martine de Vos
-Rena Bakhshi
+Berend Weel (lead)  
+Erik Tjong Kim Sang  
+Carlos Martinez Ortiz  
+Martine de Vos  
+Rena Bakhshi  
 
-# Noodles
+# Noodles  
 
-Johan Hiding (lead)
-Ben van Werkhoven
-Felipe Zapata Ruiz
-Hanno Spreeuw
-Vincent van Hees
-Lars Ridder
+Johan Hiding (lead)  
+Ben van Werkhoven  
+Felipe Zapata Ruiz  
+Hanno Spreeuw  
+Vincent van Hees  
+Lars Ridder  
 
-# CWL
+# CWL  
 
-Niels Drost (lead)
-Lourens Veen
-Alessio Sclocco
-Ben de Vries
-Bouwe Andela
-Ronald van Haren
+Niels Drost (lead)  
+Lourens Veen  
+Alessio Sclocco  
+Ben de Vries  
+Bouwe Andela  
+Ronald van Haren  
 
-# Spot
+# Spot  
 
-Willem van Hage (lead)
-Faruk Diblen
-Laurens Bogaardt
-Jisk Attema
-Dafne van Kuppevelt
-Nicolas Renaud
+Willem van Hage (lead)  
+Faruk Diblen  
+Laurens Bogaardt  
+Jisk Attema  
+Dafne van Kuppevelt  
+Nicolas Renaud  
 
-# McFly
+# McFly  
 
-Christiaan Meijer (lead)
-Bram van Es
-Wouter Kouw
-Patrick Bos
-Atze van der Ploeg
+Christiaan Meijer (lead)  
+Bram van Es  
+Wouter Kouw  
+Patrick Bos  
+Atze van der Ploeg  
 
-# Pointclouds
+# Pointclouds  
 
-Stefan Verhoeven (lead)
-Romulo Gonçalves
-Yifat Dzigan
-Arnold Kuzniar
-Maarten van Meersbergen
-Gijs van den Oord
+Stefan Verhoeven (lead)  
+Romulo Gonçalves  
+Yifat Dzigan  
+Arnold Kuzniar  
+Maarten van Meersbergen  
+Gijs van den Oord  
 
-# Dissemination & RSD
+# Dissemination & RSD  
 
-Lode Kulik (lead)
-Adrienne Mendrik
-Tom Bakker
-Tom Klaver
-Valentina Maccatrozzo
-Jason Maassen
+Lode Kulik (lead)  
+Adrienne Mendrik  
+Tom Bakker  
+Tom Klaver  
+Valentina Maccatrozzo  
+Jason Maassen  
 
-# Missing in action
+# Missing in action  
 
-Jurriaan Spaaks
-Sonja Georgievska
-Janneke van der Zwaan
-Yang Liu
-Elena Ranguelova
+Jurriaan Spaaks  
+Sonja Georgievska  
+Janneke van der Zwaan  
+Yang Liu  
+Elena Ranguelova  

@@ -59,31 +59,31 @@ Below we translate the FAIR principles to software:
 
 __Findable:__ 
 
-F2. software is described with rich metadata (defined by R1 below)
-   (license, authors, applications, locations of source, documentation, tutorials) 
-F1. metadata and software (releases) are assigned a globally unique and eternally persistent identifiers.
-   (implementation detail: releases should have a DOI, one globally for the software, and one per version.)
-F3. metadata clearly and explicitly include the identifier of the software it describes
-   (links metadata to the software and/or software releases described in F1)
-F4. metadata and software are registered or indexed in a searchable resource
-   (will be the RSD?)
+F2. software is described with rich metadata (defined by R1 below)  
+   (license, authors, applications, locations of source, documentation, tutorials)   
+F1. metadata and software (releases) are assigned a globally unique and eternally persistent identifiers.  
+   (implementation detail: releases should have a DOI, one globally for the software, and one per version)  
+F3. metadata clearly and explicitly include the identifier of the software it describes  
+   (links metadata to the software and/or software releases described in F1)  
+F4. metadata and software are registered or indexed in a searchable resource  
+   (will be the RSD?)  
  
 __Accessible:__
 
-A1. (meta)data are retrievable by their identifier using a standardized communications protocol
-A1.1 the protocol is open, free, and universally implementable
-A1.2 the protocol allows for an authentication and authorization procedure, where necessary
-A2. metadata are accessible, even when the data are no longer available
+A1. (meta)data are retrievable by their identifier using a standardized communications protocol  
+A1.1 the protocol is open, free, and universally implementable  
+A1.2 the protocol allows for an authentication and authorization procedure, where necessary  
+A2. metadata are accessible, even when the data are no longer available  
 
 __Interoperable:__
 
-I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-I2. (meta)data use vocabularies that follow FAIR principles
-I3. (meta)data include qualified references to other (meta)data
+I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation  
+I2. (meta)data use vocabularies that follow FAIR principles  
+I3. (meta)data include qualified references to other (meta)data  
 
 __Reusable:__
 
-R1. meta(data) are richly described with a plurality of accurate and relevant attributes
-R1.1. (meta)data are released with a clear and accessible data usage license
-R1.2. (meta)data are associated with detailed provenance
-R1.3. (meta)data meet domain-relevant community standards
+R1. meta(data) are richly described with a plurality of accurate and relevant attributes  
+R1.1. (meta)data are released with a clear and accessible data usage license  
+R1.2. (meta)data are associated with detailed provenance  
+R1.3. (meta)data meet domain-relevant community standards  

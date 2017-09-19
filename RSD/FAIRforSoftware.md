@@ -13,9 +13,12 @@ _"Beyond proper collection, annotation, and archival, data stewardship includes 
 Although orginally indented for data, most of these principles also apply to research software. Like open data, we feel software should be FAIR, that is _Findable, Accessible, Interoperable, and Re-usable_. However, software is not simply data: 
 
 - software is dynamic instead of static
-- software requires a context to work (hardware, other software, data, user interaction)
+- software requires a context to work (hardware, other software, data)
+- software requires expertise to apply. Storing the software without storing this expertise does not makes sense. 
+- like data, software contains errors. However, the effect of these errors in software have different effects than in data. For example, you cannot filter out "outliers" in software.
 - software tends to age which makes archival and reproducability a problem. Hardware and software dependencies tend to change or disappear. 
--  Data in itself does not age. Typically, problems with reading old data formats are caused software aging, but not by the (static) data itself. 
+
+Interestingly, data in itself does not age. Typically, problems with reading old data formats are caused software aging, but not by the data itself. 
 
 ## FAIR for data
 

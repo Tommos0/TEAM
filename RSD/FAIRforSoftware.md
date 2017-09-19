@@ -17,7 +17,6 @@ Although orginally indented for data, most of these principles also apply to res
 - software tends to age which makes archival and reproducability a problem. Hardware and software dependencies tend to change or disappear. 
 -  Data in itself does not age. Typically, problems with reading old data formats are caused software aging, but not by the (static) data itself. 
 
-
 ## FAIR for data
 
 From the FAIR website, FAIR for data stands for _Findable, Accessible, Interoperable, and Re-usable_.

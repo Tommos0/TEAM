@@ -59,7 +59,8 @@ Below we translate the FAIR principles to software:
 
 __Findable:__ 
 
-F1. software releases are assigned a globally unique and eternally persistent identifier.  
+F1. software releases are assigned a globally unique and eternally persistent identifier.
+   (implementation detail: releases should have a DOI, one globally for the software, and one per version.)
 F2. data are described with rich metadata.  
 F3. (meta)data are registered or indexed in a searchable resource.  
 F4. metadata specify the data identifier.  

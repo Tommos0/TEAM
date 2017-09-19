@@ -1,4 +1,19 @@
-# FAIR for Software
+# Open Science 
+
+Open Science is an important part of out work at the NLeSC. We have open calls, we require open access papers, open data, and open source software, and a data management and software sustainability plan.
+
+Where open access and open data are broadly accepted as an integral part of open science, open software is often forgotten or ignored. We feel open software is an essential part of open science. For most of research, software is an essential tool to produce the scientific results. Without the software, reproducing or extending existing work is hard if not impossible, even if the data and papers are open. 
+
+(Knowledge 
+
+Therefore, we feel research software should be open, just like research data and papers. However, simply producing open source software is not enough. As with open data simply providing a download link and permissive licence is only the start. As described in [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618): 
+
+_"Beyond proper collection, annotation, and archival, data stewardship includes the notion of ‘long-term care’ of valuable digital assets, with the goal that they should be discovered and re-used for downstream investigations, either alone, or in combination with newly generated data."_ 
+
+Like open data, we feel software should be FAIR, that is _Findable, Accessible, Interoperable, and Re-usable_.
+
+
+## FAIR for data
 
 From the FAIR website, FAIR for data stands for _Findable, Accessible, Interoperable, and Re-usable_.
 

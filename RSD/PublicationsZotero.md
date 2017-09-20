@@ -25,8 +25,12 @@ To add a publication by DOI:
 * Click `Add item(s) by Identifier` ![Instruction2](images/step2.png)
 * Enter one or more DOI(s), seperated with a space.
 
-Add publication to project & software:
+Add tags:
 * Click publication
 * Click Tags -> Add
-* Find project (starts with `/project/`) & software (`/software/`).
+* If publication is an abstract, poster or oral presentation, add the tag `/type/abstract` `/type/poster` or `/type/presentation`, if no tag is added it is assumed to be a journal article.
+
+Use tags to add publication to project & software:
+* Project starts with `/project/` & software: `/software/`.
+* If you can't find your project or software, add it (as /project/<yourproject> & /software/<yoursoftware>)
 * Synchronize again

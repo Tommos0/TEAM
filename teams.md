@@ -1,70 +1,77 @@
+# RSD Tech Team
 
-# CommonSense (Telescope)
+Tom Klaver (lead)
+(+6 more)
 
-Berend Weel (lead)  
+# Kernel Tuner 
+
+Ben van Werkhoven (lead) 
+Alessio Sclocco  
+Hanno Spreeuw  
+(+4 more)
+
+
+# ReGIS 
+
 Erik Tjong Kim Sang  
-Carlos Martinez Ortiz  
+Carlos Martinez Ortiz (lead) 
 Martine de Vos  
 Rena Bakhshi  
+(+3 more)
 
-# Noodles (Cloud Chamber + Universal Turing Machine)
-
-Johan Hiding (lead)  
-Ben van Werkhoven  
-Felipe Zapata Ruiz  
-Hanno Spreeuw  
-Vincent van Hees  
-Lars Ridder  
-
-# CWL (Library)
+# CWL 
 
 Niels Drost (lead)  
 Lourens Veen  
-Alessio Sclocco  
 Ben de Vries  
 Bouwe Andela  
 Ronald van Haren  
+Janneke van der Zwaan  
+(+1 more)
 
-# Spot (Workspaces next to Observatory)
+# Pointclouds
 
-Willem van Hage (lead)  
+Stefan Verhoeven (lead)  
+Romulo Gonçalves  
+Arnold Kuzniar  
+Maarten van Meersbergen  
+Gijs van den Oord  
+(+2 more)
+
+# RSD Dissemination & Communication 
+
+Lode Kulik (lead)  
+Adrienne Mendrik  
+Tom Bakker  
+Jason Maassen  
+Noura Saidi
+(+2 more)
+
+# Not assigned yet
+
+Christiaan Meijer   
+Bram van Es  
+Wouter Kouw  
+Patrick Bos  
+Atze van der Ploeg  
+Jurriaan Spaaks  
+Sonja Georgievska  
+Elena Ranguelova  
+Willem van Hage   
 Faruk Diblen  
 Laurens Bogaardt  
 Jisk Attema  
 Dafne van Kuppevelt  
 Nicolas Renaud  
-
-# McFly (Telescope) 
-
-Christiaan Meijer (lead)  
-Bram van Es  
-Wouter Kouw  
-Patrick Bos  
-Atze van der Ploeg  
-
-# Pointclouds (Stellarator) 
-
-Stefan Verhoeven (lead)  
-Romulo Gonçalves  
-Yifat Dzigan  
-Arnold Kuzniar  
-Maarten van Meersbergen  
-Gijs van den Oord  
-
-# Dissemination & RSD (Microscope / Observatory) 
-
-Lode Kulik (lead)  
-Adrienne Mendrik  
-Tom Bakker  
-Tom Klaver  
-Valentina Maccatrozzo  
-Jason Maassen  
-Noura Saidi
+Felipe Zapata Ruiz  
+Vincent van Hees  
+Lars Ridder  
+Johan Hiding
+(did I miss anyone?)
 
 # Missing in action  
 
-Jurriaan Spaaks  
-Sonja Georgievska  
-Janneke van der Zwaan  
+Berend Weel 
+Yifat Dzigan  
 Yang Liu  
-Elena Ranguelova  
+Valentina Maccatrozzo  

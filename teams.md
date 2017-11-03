@@ -10,7 +10,6 @@ Alessio Sclocco
 Hanno Spreeuw  
 (+4 more)
 
-
 # ReGIS 
 
 Erik Tjong Kim Sang  
@@ -67,7 +66,10 @@ Felipe Zapata Ruiz
 Vincent van Hees  
 Lars Ridder  
 Johan Hiding
+Inti Pelupessy
+
 (did I miss anyone?)
+
 
 # Missing in action  
 

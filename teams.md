@@ -1,19 +1,19 @@
 # RSD Tech Team
 
-Tom Klaver (lead)
+Tom Klaver (lead)   
 (+6 more)
 
 # Kernel Tuner 
 
-Ben van Werkhoven (lead) 
+Ben van Werkhoven (lead)  
 Alessio Sclocco  
 Hanno Spreeuw  
 (+4 more)
 
 # ReGIS 
 
+Carlos Martinez Ortiz (lead)  
 Erik Tjong Kim Sang  
-Carlos Martinez Ortiz (lead) 
 Martine de Vos  
 Rena Bakhshi  
 (+3 more)
@@ -43,7 +43,7 @@ Lode Kulik (lead)
 Adrienne Mendrik  
 Tom Bakker  
 Jason Maassen  
-Noura Saidi
+Noura Saidi   
 (+2 more)
 
 # Not assigned yet
@@ -65,15 +65,14 @@ Nicolas Renaud
 Felipe Zapata Ruiz  
 Vincent van Hees  
 Lars Ridder  
-Johan Hiding
-Inti Pelupessy
-
-(did I miss anyone?)
+Johan Hiding   
+Inti Pelupessy   
+(did I miss anyone?)   
 
 
 # Missing in action  
 
-Berend Weel 
-Yifat Dzigan  
-Yang Liu  
+Berend Weel   
+Yifat Dzigan    
+Yang Liu    
 Valentina Maccatrozzo  

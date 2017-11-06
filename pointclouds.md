@@ -10,7 +10,9 @@ Most of the pointcloud work at the center was done 2 years ago, I want to check 
 
 We will approach the 3 repos as a developer who has just found http://ahn2.pointclouds.nl/ and wants to re-use the visualization for his/her own data. During the 3 steps we will update the documentation, build infrastructure and code where needed.
  
-If the team is large enough or for the second sprint I want to follow the tutorials of the photogrammetry pipelines: https://github.com/NLeSC/structure-from-motion and
+The second sprint I want to follow the tutorials of the photogrammetry pipelines: https://github.com/NLeSC/structure-from-motion and
 https://github.com/ImproPhoto/pymicmac. By testing these tutorials we will most likely run into problems, will improve the tutorial, installation documentation while solving these problems.
+
+The third sprint I want to follow the tutorials for pointcloud analysis https://github.com/NLeSC/PattyAnalytics . We also want to have a pointcloud viewer integrate into Regis https://github.com/ReGIS-org/regis, clicking a polygon in a 2d map should show the pointcloud of that area. This would give the the https://github.com/eEcoLiDAR project a boost.
 
 

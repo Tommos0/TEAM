@@ -1,14 +1,19 @@
 # RSD Tech Team
 
 Tom Klaver (lead)   
-(+6 more)
+Laurens Bogaardt  
+Willem van Hage   
+Jisk Attema  
+(+3 more)
 
 # Kernel Tuner 
 
 Ben van Werkhoven (lead)  
 Alessio Sclocco  
 Hanno Spreeuw  
-(+4 more)
+Felipe Zapata Ruiz  
+Johan Hiding   
+(+2 more)
 
 # ReGIS 
 
@@ -16,7 +21,9 @@ Carlos Martinez Ortiz (lead)
 Erik Tjong Kim Sang  
 Martine de Vos  
 Rena Bakhshi  
-(+3 more)
+Elena Ranguelova
+Dafne van Kuppevelt  
+(+1 more)
 
 # CWL 
 
@@ -26,16 +33,17 @@ Ben de Vries
 Bouwe Andela  
 Ronald van Haren  
 Janneke van der Zwaan  
-(+1 more)
+Arnold Kuzniar  
 
 # Pointclouds
 
 Stefan Verhoeven (lead)  
 Romulo Gonçalves  
-Arnold Kuzniar  
 Maarten van Meersbergen  
 Gijs van den Oord  
-(+2 more)
+Sonja Georgievska  
+Faruk Diblen  
+Christiaan Meijer   
 
 # RSD Dissemination & Communication 
 
@@ -44,31 +52,19 @@ Adrienne Mendrik
 Tom Bakker  
 Jason Maassen  
 Noura Saidi   
-(+2 more)
+Vincent van Hees  
+Jurriaan Spaaks  
 
 # Not assigned yet
 
-Christiaan Meijer   
 Bram van Es  
 Wouter Kouw  
 Patrick Bos  
 Atze van der Ploeg  
-Jurriaan Spaaks  
-Sonja Georgievska  
-Elena Ranguelova  
-Willem van Hage   
-Faruk Diblen  
-Laurens Bogaardt  
-Jisk Attema  
-Dafne van Kuppevelt  
 Nicolas Renaud  
-Felipe Zapata Ruiz  
-Vincent van Hees  
 Lars Ridder  
-Johan Hiding   
 Inti Pelupessy   
 (did I miss anyone?)   
-
 
 # Missing in action  
 
